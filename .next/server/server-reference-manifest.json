@@ -1,0 +1,100 @@
+{
+  "node": {
+    "349bd181ce12a8cf298d6a38943b18626e9e7df3": {
+      "workers": {
+        "app/account/reservations/edit/[bookingId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=!",
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/profile/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/account/reservations/edit/[bookingId]/page": "rsc",
+        "app/account/reservations/page": "action-browser",
+        "app/account/profile/page": "action-browser",
+        "app/account/page": "action-browser",
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    },
+    "6ef647c575e914351d010e3d69ad538da01e5a0f": {
+      "workers": {
+        "app/account/reservations/edit/[bookingId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=!",
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/profile/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/account/reservations/edit/[bookingId]/page": "rsc",
+        "app/account/reservations/page": "action-browser",
+        "app/account/profile/page": "action-browser",
+        "app/account/page": "action-browser",
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    },
+    "94c0a5adf877401b76d39f4be29fa5501e4157bd": {
+      "workers": {
+        "app/account/reservations/edit/[bookingId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=!",
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/profile/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/account/reservations/edit/[bookingId]/page": "rsc",
+        "app/account/reservations/page": "action-browser",
+        "app/account/profile/page": "action-browser",
+        "app/account/page": "action-browser",
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    },
+    "a49f9aa329af87093aed9bdea893638a06779a09": {
+      "workers": {
+        "app/account/reservations/edit/[bookingId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=!",
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/profile/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/account/reservations/edit/[bookingId]/page": "rsc",
+        "app/account/reservations/page": "action-browser",
+        "app/account/profile/page": "action-browser",
+        "app/account/page": "action-browser",
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    },
+    "dce0267086fd20a02b26c5a497faebc71b309ec1": {
+      "workers": {
+        "app/account/reservations/edit/[bookingId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=!",
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/profile/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/account/reservations/edit/[bookingId]/page": "rsc",
+        "app/account/reservations/page": "action-browser",
+        "app/account/profile/page": "action-browser",
+        "app/account/page": "action-browser",
+        "app/cabins/[cabinId]/page": "action-browser"
+      }
+    },
+    "f939727d82ee5b9d03201aa54c7fb3385e37c798": {
+      "workers": {
+        "app/account/reservations/edit/[bookingId]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=!",
+        "app/cabins/[cabinId]/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/reservations/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=true!",
+        "app/account/profile/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CMoses%5C%5CDocuments%5C%5CSide%5C%5Coasis%5C%5Capp%5C%5C_lib%5C%5Cactions.js%22%2C%5B%22updateBooking%22%2C%22updateGuest%22%2C%22deleteReservation%22%2C%22signInAction%22%2C%22signOutAction%22%2C%22createBookings%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/account/reservations/edit/[bookingId]/page": "rsc",
+        "app/cabins/[cabinId]/page": "action-browser",
+        "app/account/reservations/page": "action-browser",
+        "app/account/profile/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "F0fZKx8FPdS1+1We8YhnJ9DlzMOg4dbozV81nITTINw="
+}

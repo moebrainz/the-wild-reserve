@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.suggest.windowsExecutableExtensions": {
+
+    },
+    "editor.quickSuggestions": {
+        "strings": "on"
+    }
+}
