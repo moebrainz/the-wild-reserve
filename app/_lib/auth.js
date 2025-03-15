@@ -13,7 +13,7 @@ const authConfig = {
     }),
   ],
   callbacks: {
-    authorize({ auth, request }) {
+    authorized({ auth, request }) {
       // console.log("auth", auth);
 
       return auth?.user ? true : false;
